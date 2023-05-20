@@ -1,4 +1,8 @@
 hero
 heroine
 director
+producer
+comedians
+villian
+side actos
 etc
